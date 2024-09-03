@@ -7,7 +7,7 @@
 
 </br>
 <div align="center">
-  <div>Join us on Discord for help, feedback, and discussions!</div>
+  <div>加入我们的 Discord 服务器，获得帮助、反馈和讨论!</div>
   </br>
   <a href="https://discord.gg/2tBnJ3jDJc">
     <img src="https://discordapp.com/api/guilds/1234073262418563112/widget.png?style=banner2" alt="Discord Shield"/>
@@ -15,95 +15,93 @@
 </div>
 </div>
 <br />
-Dokploy is a free self-hostable Platform as a Service (PaaS) that simplifies the deployment and management of applications and databases.
+Dokploy 是一款免费的、可自托管的平台即服务 (PaaS)，它简化了应用程序和数据库的部署和管理。
 
-### Features
+### 功能
 
-Dokploy include multiples features to make your life easier.
+Dokploy集成了多种功能，让您的体验更好。
 
-- **Applications**: Deploy any type of application (Node.js, PHP, Python, Go, Ruby, etc.).
-- **Databases**: Create and manage databases with support for MySQL, PostgreSQL, MongoDB, MariaDB, Redis.
-- **Backups**: Automate backups for databases to a external storage destination.
-- **Docker Compose**: Native support for Docker Compose to manage complex applications.
-- **Multi Node**: Scale applications to multiples nodes using docker swarm to manage the cluster.
-- **Templates**: Deploy in a single click open source templates (Plausible, Pocketbase, Calcom, etc.).
-- **Traefik Integration**: Automatically integrates with Traefik for routing and load balancing.
-- **Real-time Monitoring**: Monitor CPU, memory, storage, and network usage, for every resource.
-- **Docker Management**: Easily deploy and manage Docker containers.
-- **CLI/API**: Manage your applications and databases using the command line or trought the API.
-- **Notifications**: Get notified when your deployments are successful or failed (Slack, Discord, Telegram, Email, etc.)
-- **Self-Hosted**: Self-host Dokploy on your VPS.
+- **应用**: 部署任何类型的应用程序（Node.js、PHP、Python、Go、Ruby 等）。
+- **数据库**: 创建和管理数据库，支持 MySQL、PostgreSQL、MongoDB、MariaDB 和 Redis。
+- **备份**: 将数据库自动备份到外部存储目标。
+- **Docker Compose**: 本机支持 Docker Compose 来管理复杂的应用程序。
+- **多节点**: 使用 docker swarm 管理集群，将应用程序扩展到多个节点。
+- **模板**: 只需单击一下即可部署开源模板（Plausible、Pocketbase、Calcom 等）。
+- **Traefik 集成**: 自动与 Traefik 集成以实现路由和负载平衡。
+- **实时监控**: 监控每个资源的 CPU、内存、存储和网络使用情况。
+- **Docker 管理**: 轻松部署和管理Docker容器。
+- **命令行/API**: 使用命令行或通过 API 管理您的应用程序和数据库。
+- **通知**: 当您的部署成功或失败时收到通知（Slack、Discord、Telegram、电子邮件等）
+- **自托管**：在您的 VPS 上自托管 Dokploy。
 
-## 🚀 Getting Started
+## 🚀 入门
 
-To get started run the following command in a VPS:
+要开始使用，请在 VPS 中运行以下命令：
 
 ```bash
 curl -sSL https://dokploy.com/install.sh | sh
 ```
 
-For detailed documentation, visit [docs.dokploy.com](https://docs.dokploy.com).
+如需详细文档，请访问 [docs.dokploy.com](https://docs.dokploy.com)。
+## 赞助商
 
-## Sponsors
-
-🙏 We're deeply grateful to all our sponsors who make Dokploy possible! Your support helps cover the costs of hosting, testing, and developing new features.
+🙏 我们非常感谢所有赞助商，是他们让 Dokploy 成为可能！您的支持有助于支付托管、测试和开发新功能的费用。
 
 [Dokploy Open Collective](https://opencollective.com/dokploy)
 
-[Github Sponsors](https://github.com/sponsors/Siumauricio)
+[GitHub赞助](https://github.com/sponsors/Siumauricio)
 
-<!-- Hero Sponsors 🎖 -->
+<!-- 开源赞助商 🎖 -->
 
-<!-- Add Hero Sponsors here -->
+<!-- 在此添加开源赞助商 -->
 
-### Hero Sponsors 🎖
-
+### 开源赞助商 🎖
 <a href="https://www.hostinger.com/?ref=dokploy" target="_blank" ><img src=".github/sponsors/hostinger.jpg" alt="Hostinger" width="200"/></a>
 
-### Premium Supporters 🥇
+### 高级支持者 🥇
 
 <div style="display: flex; gap: 30px; flex-wrap: wrap;">
 <a href="https://supafort.com/?ref=dokploy" target="_blank"><img src="https://supafort.com/build/q-4Ht4rBZR.webp" alt="Supafort.com" width="190"/></a>
 </div>
 
-<!-- Elite Contributors 🥈 -->
+<!-- 精英贡献者 🥈 -->
 
-<!-- Add Elite Contributors here -->
+<!-- 在此添加精英贡献者 -->
 
-### Supporting Members 🥉
+### 支持成员 🥉
 
 <div style="display: flex; gap: 30px; flex-wrap: wrap;">
 <a href="https://lightspeed.run/?ref=dokploy"><img src="https://github.com/lightspeedrun.png" width="60px" alt="Lightspeed.run"/></a>
 <a href="https://cloudblast.io/?ref=dokploy "><img src="https://cloudblast.io/img/logo-icon.193cf13e.svg" width="250px" alt="Lightspeed.run"/></a>
 </div>
 
-### Community Backers 🤝
+### 社区支持者🤝
 
 <div style="display: flex; gap: 30px; flex-wrap: wrap;">
 <a href="https://steamsets.com/?ref=dokploy"><img src="https://avatars.githubusercontent.com/u/111978405?s=200&v=4" width="60px" alt="Steamsets.com"/></a>
 </div>
 
-#### Organizations:
+#### 组织：
 
-[![Sponsors on Open Collective](https://opencollective.com/dokploy/organizations.svg?width=890)](https://opencollective.com/dokploy)
+[![Open Collective 上的赞助商](https://opencollective.com/dokploy/organizations.svg?width=890)](https://opencollective.com/dokploy)
 
-#### Individuals:
+#### 个人：
 
-[![Individual Contributors on Open Collective](https://opencollective.com/dokploy/individuals.svg?width=890)](https://opencollective.com/dokploy)
+[![Open Collective 上的个人贡献者](https://opencollective.com/dokploy/individuals.svg?width=890)](https://opencollective.com/dokploy)
 
-### Contributors 🤝
+### 贡献者 🤝
 
 <a href="https://github.com/dokploy/dokploy/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=dokploy/dokploy" />
   </a>
 
-## Video Tutorial
+## 视频教程
 
 <a href="https://youtu.be/mznYKPvhcfw">
   <img src="https://dokploy.com/banner.webp" alt="Watch the video" width="400" style="border-radius:20px;"/>
 </a>
 
-<!-- ## Supported OS
+<!-- ## 支持的操作系统
 
 - Ubuntu 24.04 LTS
 - Ubuntu 23.10
@@ -116,6 +114,6 @@ For detailed documentation, visit [docs.dokploy.com](https://docs.dokploy.com).
 - Centos 9
 - Centos 8 -->
 
-## Contributing
+## 贡献
 
-Check out the [Contributing Guide](CONTRIBUTING.md) for more information.
+查看 [贡献指南](CONTRIBUTING.md) 了解更多信息。
